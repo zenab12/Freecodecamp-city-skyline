@@ -1,4 +1,5 @@
-# tips i learned while coding this task 
+# [Live Demo ](https://zenab12.github.io/Freecodecamp-city-skyline/)
+## tips i learned while coding this task 
 - Variables implies only for it's children . That's just how CSS works. Because of this, variables are often declared in the `:root` selector. This is the highest level selector in CSS; putting your variables there will make them usable everywhere
 and we make fallback value to avoid any problem.
 - Gradients in CSS are a way to transition between colors across the distance of an element. They are applied to the background property and the syntax looks like this:
