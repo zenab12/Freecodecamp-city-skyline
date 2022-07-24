@@ -27,3 +27,7 @@ gradient-type(
   color2
 );
 ```
+
+![Screen Shot 2022-07-24 at 18 57 41](https://user-images.githubusercontent.com/78083890/180658051-dc3ecd34-9b01-41bf-a371-08646ccfdb32.png)
+
+![Screen Shot 2022-07-24 at 18 57 26](https://user-images.githubusercontent.com/78083890/180658057-0361123a-fd18-4ee8-b8ce-bdf277892947.png)
