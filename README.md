@@ -28,3 +28,4 @@ gradient-type(
 );
 ```
 ![Screen Shot 2022-07-24 at 18 57 26](https://user-images.githubusercontent.com/78083890/180658499-28c734b3-3c68-49bf-ba08-0cd02395fe58.png)
+![Screen Shot 2022-07-24 at 19 48 20](https://user-images.githubusercontent.com/78083890/180659624-8ad86005-fba2-403c-bcfa-c1490a071c44.png)
